@@ -1,0 +1,20 @@
+{
+  "name": "juribe-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julian-uribe47/Juribe-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julian-uribe47/Juribe-landing/issues"
+  },
+  "homepage": "https://github.com/julian-uribe47/Juribe-landing#readme"
+}
